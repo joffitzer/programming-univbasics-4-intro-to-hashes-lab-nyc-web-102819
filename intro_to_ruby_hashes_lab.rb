@@ -16,7 +16,7 @@ end
 
 def id_generator
   random_number_hash = {
-    :id => 
+    :id => Integer
   }
 end
 

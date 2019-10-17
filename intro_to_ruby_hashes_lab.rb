@@ -21,7 +21,7 @@ def id_generator
 end
 
 def my_hash_creator(:name, "Grace Hopper")
-  # return a hash that includes the key and value parameters passed into this method
+  my_hash_creator = {}
 end
 
 def read_from_hash(hash, key)
